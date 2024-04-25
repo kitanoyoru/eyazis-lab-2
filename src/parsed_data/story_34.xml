@@ -1,0 +1,203 @@
+<?xml version="1.0" ?>
+<document>
+  <sentence id="1">
+    <word id="1" info="наречие">Однажды</word>
+    <word id="2" info="прилагательное">дремучем</word>
+    <word id="3" info="существительное">лесу</word>
+    <word id="4" info="глагол">жил</word>
+    <word id="5" info="прилагательное">небольшой</word>
+    <word id="6" info="существительное">ёжик</word>
+    <word id="7" info="существительное">имени</word>
+    <word id="8" info="существительное">Игорек</word>
+  </sentence>
+  <sentence id="2">
+    <word id="1" info="местоимение-существительное">Его</word>
+    <word id="2" info="существительное">иголки</word>
+    <word id="3" info="наречие">необычайно</word>
+    <word id="4" info="прилагательное">остры</word>
+    <word id="5" info="глагол">блестели</word>
+    <word id="6" info="существительное">солнце</word>
+    <word id="7" info="прилагательное">маленькие</word>
+    <word id="8" info="существительное">звёзды</word>
+  </sentence>
+  <sentence id="3">
+    <word id="1" info="существительное">Игорек</word>
+    <word id="2" info="предлог">несмотря</word>
+    <word id="3" info="прилагательное">свой</word>
+    <word id="4" info="прилагательное">колючий</word>
+    <word id="5" info="существительное">наряд</word>
+    <word id="6" info="наречие">очень</word>
+    <word id="7" info="прилагательное">добрым</word>
+    <word id="8" info="прилагательное">любознательным</word>
+    <word id="9" info="существительное">ёжиком</word>
+  </sentence>
+  <sentence id="4">
+    <word id="1" info="прилагательное">Каждый</word>
+    <word id="2" info="существительное">день</word>
+    <word id="3" info="глагол">отправлялся</word>
+    <word id="4" info="существительное">поиски</word>
+    <word id="5" info="существительное">еды</word>
+    <word id="6" info="существительное">приключений</word>
+  </sentence>
+  <sentence id="5">
+    <word id="1" info="предлог">На</word>
+    <word id="2" info="прилагательное">одной</word>
+    <word id="3" info="прилагательное">своих</word>
+    <word id="4" info="существительное">прогулок</word>
+    <word id="5" info="глагол">заметил</word>
+    <word id="6" info="прилагательное">странный</word>
+    <word id="7" info="существительное">объект</word>
+    <word id="8" info="существительное">земле</word>
+  </sentence>
+  <sentence id="6">
+    <word id="1" info="частица">Это</word>
+    <word id="2" info="прилагательное">серебристая</word>
+    <word id="3" info="существительное">ложка</word>
+    <word id="4" info="прилагательное">упавшая</word>
+    <word id="5" info="существительное">рюкзака</word>
+    <word id="6" info="прилагательное">случайного</word>
+    <word id="7" info="существительное">туриста</word>
+  </sentence>
+  <sentence id="7">
+    <word id="1" info="существительное">Игорек</word>
+    <word id="2" info="деепричастие">испытывая</word>
+    <word id="3" info="прилагательное">неподдельное</word>
+    <word id="4" info="существительное">любопытство</word>
+    <word id="5" info="глагол">начал</word>
+    <word id="6" info="глагол">катать</word>
+    <word id="7" info="существительное">ложку</word>
+    <word id="8" info="прилагательное">своими</word>
+    <word id="9" info="существительное">лапками</word>
+    <word id="10" info="глагол">блестела</word>
+    <word id="11" info="компаратив">ярче</word>
+    <word id="12" info="деепричастие">попадая</word>
+    <word id="13" info="прилагательное">солнечные</word>
+    <word id="14" info="существительное">лучи</word>
+  </sentence>
+  <sentence id="8">
+    <word id="1" info="предлог">В</word>
+    <word id="2" info="частица">это</word>
+    <word id="3" info="существительное">время</word>
+    <word id="4" info="наречие">рядом</word>
+    <word id="5" info="глагол">появился</word>
+    <word id="6" info="прилагательное">маленький</word>
+    <word id="7" info="существительное">зайчонок</word>
+    <word id="8" info="существительное">имени</word>
+    <word id="9" info="существительное">Тим</word>
+  </sentence>
+  <sentence id="9">
+    <word id="1" info="местоимение-существительное">Он</word>
+    <word id="2" info="существительное">восторге</word>
+    <word id="3" info="существительное">игры</word>
+    <word id="4" info="существительное">ёжика</word>
+    <word id="5" info="глагол">предложил</word>
+    <word id="6" info="глагол">присоединиться</word>
+  </sentence>
+  <sentence id="10">
+    <word id="1" info="предлог">С</word>
+    <word id="2" info="существительное">момента</word>
+    <word id="3" info="существительное">Игорек</word>
+    <word id="4" info="существительное">Тим</word>
+    <word id="5" info="глагол">стали</word>
+    <word id="6" info="прилагательное">неразлучными</word>
+    <word id="7" info="существительное">друзьями</word>
+  </sentence>
+  <sentence id="11">
+    <word id="1" info="местоимение-существительное">Они</word>
+    <word id="2" info="глагол">изучали</word>
+    <word id="3" info="прилагательное">каждый</word>
+    <word id="4" info="существительное">уголок</word>
+    <word id="5" info="существительное">леса</word>
+    <word id="6" info="глагол">делились</word>
+    <word id="7" info="существительное">секретами</word>
+    <word id="8" info="глагол">играли</word>
+    <word id="9" info="прилагательное">веселые</word>
+    <word id="10" info="существительное">игры</word>
+  </sentence>
+  <sentence id="12">
+    <word id="1" info="наречие">Однажды</word>
+    <word id="2" info="существительное">друзья</word>
+    <word id="3" info="глагол">нашли</word>
+    <word id="4" info="прилагательное">старую</word>
+    <word id="5" info="существительное">птичью</word>
+    <word id="6" info="существительное">скворечник</word>
+    <word id="7" info="прилагательное">который</word>
+    <word id="8" info="существительное">ветер</word>
+    <word id="9" info="глагол">сломал</word>
+    <word id="10" info="глагол">опустил</word>
+    <word id="11" info="существительное">землю</word>
+  </sentence>
+  <sentence id="13">
+    <word id="1" info="прилагательное">Совместными</word>
+    <word id="2" info="существительное">усилиями</word>
+    <word id="3" info="существительное">Тим</word>
+    <word id="4" info="существительное">Игорек</word>
+    <word id="5" info="глагол">поставили</word>
+    <word id="6" info="наречие">обратно</word>
+    <word id="7" info="существительное">ветку</word>
+  </sentence>
+  <sentence id="14">
+    <word id="1" info="местоимение-существительное">Их</word>
+    <word id="2" info="существительное">радости</word>
+    <word id="3" info="существительное">предела</word>
+    <word id="4" info="существительное">птицы</word>
+    <word id="5" info="глагол">вернулись</word>
+    <word id="6" info="наречие">снова</word>
+    <word id="7" info="глагол">заселили</word>
+    <word id="8" info="существительное">домик</word>
+  </sentence>
+  <sentence id="15">
+    <word id="1" info="предлог">В</word>
+    <word id="2" info="существительное">благодарность</word>
+    <word id="3" info="прилагательное">маленькие</word>
+    <word id="4" info="существительное">птички</word>
+    <word id="5" info="наречие">часто</word>
+    <word id="6" info="глагол">устраивали</word>
+    <word id="7" info="существительное">ёжика</word>
+    <word id="8" info="существительное">зайчика</word>
+    <word id="9" info="существительное">концерты</word>
+    <word id="10" info="существительное">трели</word>
+    <word id="11" info="существительное">песен</word>
+    <word id="12" info="глагол">наполняли</word>
+    <word id="13" info="существительное">лес</word>
+    <word id="14" info="существительное">радостью</word>
+    <word id="15" info="существительное">музыкой</word>
+  </sentence>
+  <sentence id="16">
+    <word id="1" info="существительное">Игорек</word>
+    <word id="2" info="существительное">Тим</word>
+    <word id="3" info="глагол">поняли</word>
+    <word id="4" info="наречие">важно</word>
+    <word id="5" info="глагол">помогать</word>
+    <word id="6" info="прилагательное">другим</word>
+    <word id="7" info="прилагательное">такие</word>
+    <word id="8" info="прилагательное">маленькие</word>
+    <word id="9" info="прилагательное">добрые</word>
+    <word id="10" info="существительное">поступки</word>
+    <word id="11" info="глагол">делают</word>
+    <word id="12" info="существительное">мир</word>
+    <word id="13" info="предлог">вокруг</word>
+  </sentence>
+  <sentence id="17">
+    <word id="1" info="глагол">Прошли</word>
+    <word id="2" info="существительное">годы</word>
+    <word id="3" info="существительное">лес</word>
+    <word id="4" info="глагол">хранил</word>
+    <word id="5" info="существительное">истории</word>
+    <word id="6" info="существительное">дружбе</word>
+    <word id="7" info="существительное">ёжика</word>
+    <word id="8" info="существительное">зайца</word>
+    <word id="9" info="прилагательное">которые</word>
+    <word id="10" info="прилагательное">одним</word>
+    <word id="11" info="прилагательное">летним</word>
+    <word id="12" info="существительное">днём</word>
+    <word id="13" info="глагол">нашли</word>
+    <word id="14" info="существительное">друг</word>
+    <word id="15" info="существительное">друга</word>
+    <word id="16" info="предлог">благодаря</word>
+    <word id="17" info="прилагательное">серебристой</word>
+    <word id="18" info="существительное">ложке</word>
+    <word id="19" info="прилагательное">лесной</word>
+    <word id="20" info="существительное">тропинке</word>
+  </sentence>
+</document>

@@ -1,0 +1,31 @@
+[tool.poetry]
+name = "lab2"
+version = "0.1.0"
+description = ""
+authors = ["Alexandr Rutkowski <kitanoyoru@protonmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+nltk = "^3.8.1"
+pyqt5 = "^5.15.10"
+pyqt6 = "^6.6.1"
+click = "^8.1.7"
+wiki-ru-wordnet = "^1.0.3"
+ruwordnet = "^0.0.6"
+pymorphy2 = "^0.9.1"
+setuptools = "^69.5.1"
+openai = "^1.23.3"
+fastapi = "^0.110.2"
+uvicorn = "^0.29.0"
+orjson = "^3.10.1"
+
+[tool.poetry.group.dev.dependencies]
+isort = "^5.13.2"
+black = "^24.4.0"
+ruff = "^0.4.1"
+pylint = "^3.1.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
